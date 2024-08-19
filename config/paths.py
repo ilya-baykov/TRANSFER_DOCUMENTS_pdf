@@ -1,0 +1,8 @@
+ROOT_PATH = r"\\pr.rt.ru\MC\ocr_oco\Промежуточный OCR\Акт об утере ДД"
+LOCAL_APPLICATION_PATH = r"C:\Users\RPA_PROD_Robot\PycharmProjects\Python14_new_version\applications"
+PATH_FILES = ROOT_PATH + r"\На обработку"
+PATH_REPORTS = ROOT_PATH + r"\Отчеты"
+PATH_DELETE = ROOT_PATH + r"\Корзина"
+PATH_TEMPLATE_REPORTS = LOCAL_APPLICATION_PATH + r"\Приложение_2_Отчет_о_работе_робота.xlsx"
+CUMULATIVE_REGISTRY = LOCAL_APPLICATION_PATH + r"\Приложение_2_Накопительный_реестр.xlsx"
+MAPPING_BRANCHES = LOCAL_APPLICATION_PATH + r"\Приложение_7_Мэппинг_ЛС-Сегмент-Филиал.xlsx"
